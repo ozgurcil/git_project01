@@ -8,7 +8,9 @@ public class NextClass {
 		System.out.println("tired");
 		System.out.println("testing this terminal and git is ehhhh");
 		
-		System.out.println("hello remote testers");
+
+		System.out.println("hello remote eclipse");
+
 		
 	}
 
